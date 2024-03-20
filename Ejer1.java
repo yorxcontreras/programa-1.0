@@ -4,6 +4,8 @@
 
     public static void executar () {
        
+        Programa.imprimirTitulo("EXERCÍCIO 01");
+
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Digite um número: ");
