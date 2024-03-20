@@ -7,6 +7,8 @@ public class Programa {
         // Ejer2.executar();
         // Ejer3.executar();
         Ejer4.executar();
+        Ejer5.executar();
+        Ejer6.executar();
 
     }
 
